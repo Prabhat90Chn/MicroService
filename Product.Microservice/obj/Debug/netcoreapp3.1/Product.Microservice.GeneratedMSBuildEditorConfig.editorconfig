@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = Product.Microservice
+build_property.ProjectDir = C:\Users\Admin\Desktop\VBProjects\Microservice.WebApi\Product.Microservice\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
